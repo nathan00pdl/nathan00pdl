@@ -11,8 +11,8 @@ Busco, em especial, a área de desenvolvedor back-end e atuação com banco de d
 ## Github Stats
 <div>
   <a href="https://github.com/nathan00pdl">
-  <img height="200em" src=https://github-readme-stats.vercel.app/api?username=nathan00pdl&theme=dark&show_icons=true> 
-  <img height="200em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nathan00pdl&size_weight=0.5&count_weight=0.5&theme=dark>
+  <img height="150em" src=https://github-readme-stats.vercel.app/api?username=nathan00pdl&theme=dark&show_icons=true> 
+  <img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nathan00pdl&size_weight=0.5&count_weight=0.5&theme=dark>
 </div>
 
 
