@@ -1,11 +1,11 @@
 ### Hi there 👋
 # My name is Nathan Paiva
 
-Atualmente, estou graduando o 6 semestre do curso de Engenharia da Computação no Instituto Federal de São Paulo (IFSP) - Piracicaba. Estou a procura de experiências profissionais na área de programação para poder aperfeiçoar e por em prática meus conhecimentos adquiridos na instituição. 
+Atualmente, estou graduando o 6 semestre do curso de engenharia da computação no Instituto Federal de São Paulo (IFSP) e estou estagiando na empresa Smartbreeder como desenvolvedor backend, tendo maior contato com a linguagem JavaScript além de consultas e análises de dados com SQL Server Management Studio. 
 
-Sempre ligado às questões tecnológicas, bem como o mundo de informações, busco por uma atuação profissional de forma direta com esse meio. Ambiciono estar diante de problemas aos quais serei capaz de obter uma solução de forma inteligente, eficaz e, principalmente, utilizando meios tecnológicos, ou seja, facilitando e automatizando questões simples em prol de um bem estar geral.
+Sempre estive ligado às questões tecnológicas, bem como o mundo de informações, assim, busco por uma atuação profissional de forma direta com esse meio. Ambiciono estar diante de problemas aos quais serei capaz de obter uma solução de forma inteligente, eficaz e, principalmente, utilizando meios tecnológicos, ou seja, facilitando e automatizando questões simples em prol de um bem estar geral.
 
-Busco, em especial, a área de desenvolvedor back-end e atuação com banco de dados, sendo esse os caminhos aos quais tenho tido maior aptidão e que pretendo seguir futuramente, porém sempre disposto a novas oportunidades e desafios relacionados a área de TI no geral.
+Tenho tido maior aptidão com a área de desenvolvedor backend e atuação com banco de dados, porém sempre disposto a novas oportunidades e desafios relacionados a área de TI no geral!
 
 
 ## Github Stats
