@@ -1,7 +1,7 @@
 ### Hi there 👋
 # My name is Nathan Paiva
 
-Atualmente, estou graduando o 6 semestre do curso de engenharia da computação no Instituto Federal de São Paulo (IFSP) e estou estagiando na empresa Smartbreeder como desenvolvedor backend, tendo maior contato com a linguagem JavaScript além de consultas e análises de dados com SQL Server Management Studio. 
+Atualmente, estou graduando o 7 semestre do curso de engenharia da computação no Instituto Federal de São Paulo (IFSP) e estou estagiando na empresa Smartbreeder como desenvolvedor backend, tendo maior contato com a linguagem JavaScript além de consultas e análises de dados com SQL Server Management Studio. 
 
 Sempre estive ligado às questões tecnológicas, bem como o mundo de informações, assim, busco por uma atuação profissional de forma direta com esse meio. Ambiciono estar diante de problemas aos quais serei capaz de obter uma solução de forma inteligente, eficaz e, principalmente, utilizando meios tecnológicos, ou seja, facilitando e automatizando questões simples em prol de um bem estar geral.
 
