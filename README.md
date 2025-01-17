@@ -20,5 +20,7 @@
 
 ## 🌎 Connect with me on 
 <p align="left">
- <a href="www.linkedin.com/in/nathan-paiva-636336236" target="_blank"><img height="45em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/nathan-paiva-636336236" target="_blank">
+   <img height="45em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
 </p>
