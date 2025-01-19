@@ -9,8 +9,8 @@
 
 ### 📊 Github Stats
 <a href="https://github.com/nathan00pdl" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan00pdl&show_icons=true&theme=chartreuse-dark" alt="Nathan's GitHub stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan00pdl&layout=compact&theme=chartreuse-dark" alt="Top Langs" height="180em"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan00pdl&show_icons=true&theme=dark" alt="Nathan's GitHub stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan00pdl&layout=compact&theme=dark" alt="Top Langs" height="180em"> 
 </a>
 
 
