@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nathan Paiva
+### Hi, I'm Nathan Paiva
 
 👨‍🎓 Undergraduate in Computer Engineering from the Federal Institute of São Paulo<br/>
 🔭 I’m currently working on the repository [crud-angular-spring](https://github.com/nathan00pdl/crud-angular-spring)<br/>
@@ -7,14 +7,14 @@
 📫 How to reach me **nathanpaiva00@gmail.com**<br/>
 
 
-### 📊 Github Stats
+### Github Stats
 <a href="https://github.com/nathan00pdl" style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=nathan00pdl&show_icons=true&theme=dark" alt="Nathan's GitHub stats" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan00pdl&layout=compact&theme=dark" alt="Top Langs" height="180em"> 
 </a>
 
 
-### 🖥️ Tech Stack
+### Tech Stack
  <p align="left">
    
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
 </p>
 
 
-### 🌎 Connect with me on 
+### Connect with me on 
 <p align="left">
  <a href="https://www.linkedin.com/in/nathan-paiva-636336236" target="_blank">
    <img height="45em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
