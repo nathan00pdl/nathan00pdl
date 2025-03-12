@@ -3,7 +3,7 @@
 👨‍🎓 Undergraduate in Computer Engineering from the Federal Institute of São Paulo - Piracicaba SP<br/>
 🔭 I’m currently working on the repository [crud-angular-spring](https://github.com/nathan00pdl/crud-angular-spring)<br/>
 🌱 I’m currently learning **Java, SpringBoot, JPA (Hibernate implementation), Angular, Docker and Linux system**<br/>
-🤝 I’m looking for help with **Angular and Spring Security**<br/>
+🤝 I’m looking for help with **Angular2, Spring Security and Unit Testing with Mockito**<br/>
 📫 How to reach me **nathanpaiva00@gmail.com**<br/>
 
 
