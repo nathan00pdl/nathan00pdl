@@ -1,8 +1,8 @@
 ### Hi, I'm Nathan Paiva
 
 👨‍🎓 Undergraduate in Computer Engineering from the Federal Institute of São Paulo - Piracicaba SP<br/>
-🔭 I’m currently working on the repository [ClinAgenda](https://github.com/nathan00pdl/ClinAgenda)<br/>  
-🌱 I’m currently learning **C#, ASP.NET CORE, Java, SpringBoot, JPA (Hibernate implementation), Angular, Docker and Linux system**<br/>
+🔭 I’m currently working on the repository [ClinAgenda](https://github.com/nathan00pdl/ClinAgenda)<br/>
+🌱 I’m currently learning **C#, ASP.NET, Java, SpringBoot, JPA (Hibernate implementation), Angular, Docker and Linux system**<br/>
 🤝 I’m looking for help with **Angular2, Spring Security and Unit Testing with Mockito**<br/>
 📫 How to reach me **nathanpaiva00@gmail.com**<br/>
 
